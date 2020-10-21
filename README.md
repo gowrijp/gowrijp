@@ -15,3 +15,11 @@ I am a fourth-year UG at IIT Kharagpur.
 - ⚡ Fun fact: When I’m working, I’ll often play one song on repeat over and over again.-->
 
 <!--[My Site](https://gowrijp.github.io/resume-website) • [Instagram](https://www.instagram.com/bubblebubble_._/) • [LinkedIn](https://www.linkedin.com/in/gowri-jayaprakash-631368168/)-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gowrijp" alt="gowrijp" /> </p>
+
+<!-- - 🔭 I’m currently learning **Data Structures and Algorithms** -->
+- 🤔 I’m looking for help with **Backend🙏**
+- 🤝 Looking to **collaborate** on innovative ideas and projects
+- 😄 Pronouns: She/Her
+- 📫 How to reach me: [gowrijp.16@gmail.com](mailto:gowrijp.16@gmail.com).
+- ⚡ Fun fact: When I’m working, I’ll often play one song on repeat over and over again.
